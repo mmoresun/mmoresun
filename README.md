@@ -1,4 +1,4 @@
-## Hi, I'm Anton 👋
+## Hi, I'm Anton 👋 I'm originally from Kyiv, Ukraine, and live in Antalya, Turkey.
 
 Full Stack Developer with 4+ years building production web applications.
 
