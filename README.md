@@ -10,6 +10,8 @@ Most of my commercial work lives in private repositories at Defdone -
 projects include a B2B logistics platform (myZiegler), Ziegler Group corporate website,
 Casper Network blockchain platform.
 
+Public repos below are personal experiments and learning projects.
+
 📫 anton.blagoveshchenskiy@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/anton-blagoveshchenskiy)
 🌐 [Portfolio](https://mmoresun.github.io/portfolio/)
