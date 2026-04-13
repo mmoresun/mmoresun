@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Anton 👋
 
-<!--
-**mmoresun/mmoresun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with 4+ years building production web applications.
 
-Here are some ideas to get you started:
+**Stack:** React.js, TypeScript, Node.js, NestJS, PostgreSQL, MongoDB, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working on:** AI integration with LLM APIs (Claude, Node.js)
+
+Most of my commercial work lives in private repositories at Defdone —
+projects include a B2B logistics platform (myZiegler) and a blockchain
+explorer for Casper Network.
+
+📫 anton.blagoveshchenskiy@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/anton-blagoveshchenskiy)
+🌐 [Portfolio](https://mmoresun.github.io/portfolio/)
