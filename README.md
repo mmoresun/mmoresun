@@ -19,4 +19,3 @@ Public repos below are personal experiments and learning projects.
 
 📫 anton.blagoveshchenskiy@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/anton-blagoveshchenskiy)
-🌐 [Portfolio](https://mmoresun.github.io/portfolio/)
